@@ -1,6 +1,5 @@
 
 
-![3AZK](https://user-images.githubusercontent.com/38521101/129101796-15c68bd1-50b5-4ed2-941f-f68f2d3205c3.gif)
 
 
 
@@ -33,6 +32,10 @@
 
 
 <h2>- ⚡ Fun fact: I'm Self-tought Data Scienetist & I came up from the Medical Feild</h2>
+                                
+                                
+ ![Q4rf](https://user-images.githubusercontent.com/38521101/129107968-6061f2cf-e70e-4639-b1ba-8088f634cd65.gif)
+                               
 
 <h1>Thank you!!! For your Browersing my page hope to like What I've been engageing with recently  👋 </h1>:octocat: :octocat: :octocat: :octocat: :octocat:</h1></h1>
 
