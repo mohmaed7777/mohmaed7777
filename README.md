@@ -1,9 +1,4 @@
- <h2>Here are some ideas to get you started:</h2>
-
-<a href="https://www.linkedin.com/in/mohammed-emad-609069197/"><img src="linkedin-logo-vector-37693823.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
- 
-
-![linkedin-logo-vector-37693823](https://user-images.githubusercontent.com/38521101/129080856-e936855d-7810-44dc-a0de-f320c3cd94d9.jpg)
+ <h2>Here are some ideas to get you started:</h2> 
 
 
 <h3>- 🔭 I’m currently working on a Personal Projects related to Data Science.</h3>
