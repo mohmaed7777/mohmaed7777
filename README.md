@@ -7,12 +7,14 @@
  
  <a href="https://www.linkedin.com/in/mohammed-emad-609069197/">
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/38521101/129099191-193d5b76-f51a-4715-97ad-c73ea037d9f1.jpg"
-         width=150" height="70">
+         width="150" height="150">
       </a>
+                                
+                                
                                
 <a href="https://web.facebook.com/mohammedemad.houssin/">
          <img alt="Facebook" src="https://user-images.githubusercontent.com/38521101/129099024-4e1b4899-45d7-42b7-b376-0175c10c2855.png"
-         width=50" height="70">
+         width=150" height="150">
       </a>
       
 
