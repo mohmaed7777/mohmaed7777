@@ -1,4 +1,7 @@
-  <h2>Here are some ideas to get you started:</h2>
+ <h2>Here are some ideas to get you started:</h2>
+
+![QXg6](https://user-images.githubusercontent.com/38521101/129075756-6e7c0a49-2d1f-48dc-82bd-07e3f3b23105.gif)
+ 
 
 <h3>- 🔭 I’m currently working on a Personal Projects related to Data Science.</h3>
 
