@@ -4,10 +4,16 @@
 
 <h2>Here are some ideas to get you started:</h2>
 
-<h3>- 🔭 I’m currently working on a Personal Projects related to Data Science</h3>
-- 🌱 I’m currently learning Data Sciene & Machine learning 
-- 👯 I’m looking to collaborate on DS
-- 💬 Ask me about Anything 
-- 📫 How to reach me: [https://www.linkedin.com/in/mohammed-emad-609069197/]
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm Selftought Data Scienetist & I came from the Medical Feild.
+<h3>- 🔭 I’m currently working on a Personal Projects related to Data Science.</h3>
+
+<h3>- 🌱 I’m currently learning Data Sciene & Machine learning.</h3>
+
+<h3>- 👯 I’m looking for a job in DS.</h3>
+
+<h3>- 💬 Ask me about Anything.</h3>
+
+<h3>- 📫 How to reach me: [https://www.linkedin.com/in/mohammed-emad-609069197/]</h3>
+
+<h3>- 😄 Pronouns: He / Him.</h3>
+
+<h2>- ⚡ Fun fact: I'm Selftought Data Scienetist & I came from the Medical Feild</h2>
