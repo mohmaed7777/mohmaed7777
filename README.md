@@ -1,4 +1,4 @@
-![J3A](https://user-images.githubusercontent.com/38521101/129072139-4e0ac36d-2a5b-43ee-af80-9cab0683cc1a.gif)  <h2>Here are some ideas to get you started:</h2>
+  <h2>Here are some ideas to get you started:</h2>
 
 <h3>- 🔭 I’m currently working on a Personal Projects related to Data Science.</h3>
 
@@ -16,4 +16,5 @@
 
 <h1>Thank you!!! For your Browersing my page hope to like What I"ve been engageing with recently  👋 <h1>:octocat: :octocat: :octocat: :octocat: :octocat:</h1></h1>
 
+![J3A](https://user-images.githubusercontent.com/38521101/129072139-4e0ac36d-2a5b-43ee-af80-9cab0683cc1a.gif)
 
