@@ -6,7 +6,7 @@
          width=150" height="70">
       </a>
                                
-<a href="https://discord.com/Mohamed_Emad">
+<a href="https://discord.com/Mohamed_Emad#6519">
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/38521101/129084541-24925963-1c96-4d6b-a027-46c7aae50d39.png"
          width=50" height="70">
       </a>
