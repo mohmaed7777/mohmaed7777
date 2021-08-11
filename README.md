@@ -1,8 +1,10 @@
  <h2>Here are some ideas to get you started:</h2>
 
-![QXg6](https://user-images.githubusercontent.com/38521101/129075756-6e7c0a49-2d1f-48dc-82bd-07e3f3b23105.gif)
+<a href="https://www.linkedin.com/in/mohammed-emad-609069197/"><img src="![linkedin-logo-vector-37693823](https://user-images.githubusercontent.com/38521101/129080856-e936855d-7810-44dc-a0de-f320c3cd94d9.jpg)" width="82" height="86" title="White flower" alt="Flower"></a>
+ 
 
- <a href="https://www.linkedin.com/in/mohammed-emad-609069197/"><img src="![linkedin-logo](https://user-images.githubusercontent.com/38521101/129079886-c4ff78f7-9832-4e95-8e0b-6856e3039d05.png)" style="width:82px; height:86px" title="linkedin" alt="Linkedin"></a>
+
+
 
 <h3>- 🔭 I’m currently working on a Personal Projects related to Data Science.</h3>
 
