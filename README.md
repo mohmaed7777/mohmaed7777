@@ -4,7 +4,7 @@
 
 
 
- <h1>Welcome to my page <h1>:man_with_turban:</h1></h1> 
+ <h1>Welcome to my page <h1>:man_with_turban: :raised_hand:</h1></h1> 
  
  <a href="https://www.linkedin.com/in/mohammed-emad-609069197/">
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/38521101/129099655-b3468217-dfb5-4868-b9ac-4428bf29fd7f.png"
