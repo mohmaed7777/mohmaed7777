@@ -4,7 +4,7 @@
 
 <h2>Here are some ideas to get you started:</h2>
 
-- 🔭 I’m currently working on a Personal Projects related to Data Science
+<h3>- 🔭 I’m currently working on a Personal Projects related to Data Science</h3>
 - 🌱 I’m currently learning Data Sciene & Machine learning 
 - 👯 I’m looking to collaborate on DS
 - 💬 Ask me about Anything 
