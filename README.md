@@ -1,8 +1,7 @@
 ### Thank you!!! For your Browersing my page hope to like What I"ve been engageing with recently  👋
 
-![3AZK](https://user-images.githubusercontent.com/38521101/129071402-5862a21c-143b-45a3-b8e0-66894712032d.gif)
 
-Here are some ideas to get you started:
+<h2>Here are some ideas to get you started:</h2>
 
 - 🔭 I’m currently working on a Personal Projects related to Data Science
 - 🌱 I’m currently learning Data Sciene & Machine learning 
