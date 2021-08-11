@@ -1,6 +1,9 @@
  <h2>Here are some ideas to get you started:</h2> 
  
-<img align="left" alt="[linkedin]:https://www.linkedin.com/in/mohammed-emad-609069197/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <a href="https://www.linkedin.com/in/mohammed-emad-609069197/">
+         <img alt="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+         width=150" height="70">
+      </a>
 
 
 <h3>- 🔭 I’m currently working on a Personal Projects related to Data Science.</h3>
