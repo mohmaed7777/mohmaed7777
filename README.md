@@ -4,7 +4,7 @@
 
 
 
- <h1>El-Salam Aliekum<h1>:man_with_turban: :raised_hand:</h1></h1> 
+ <h1>Welcome To My GitHub 👋 <h1>:man_with_turban: :raised_hand:</h1></h1> 
  
  
  <a href="https://www.linkedin.com/in/mohammed-emad-609069197/">
@@ -41,7 +41,7 @@
  ![Q4rf](https://user-images.githubusercontent.com/38521101/129107968-6061f2cf-e70e-4639-b1ba-8088f634cd65.gif)
                                
 
-<h1>Thank you!!! For your Browersing my page hope to like What I've been engageing with recently  👋 </h1>:octocat: :octocat: :octocat: :octocat: :octocat:</h1></h1>
+<h1>Thank you!!! For your Browersing my page hope to like What I've been engageing with recently </h1>:octocat: :octocat:</h1></h1>
 
 
 
